@@ -1,0 +1,23 @@
+,POS,POSITION,GROUP,PLATOON
+0,PRO,Pro-Style Quarterback,Quarterback,Offense
+1,DUAL,Dual-Threat Quarterback,Quarterback,Offense
+2,APB,All Purpose Back,Running Back,Offense
+3,RB,Running Back,Running Back,Offense
+4,FB,Fullback,Running Back,Offense
+5,WR,Wide Receiver,Receiver,Offense
+6,TE,Tight End,Receiver,Offense
+7,OT,Offensive Tackle,Offensive Line,Offense
+8,OG,Offensive Guard,Offensive Line,Offense
+9,OC,Center (FB),Offensive Line,Offense
+10,WDE,Weak-Side Defensive End,Defensive Line,Defense
+11,SDE,Strong-Side Defensive End,Defensive Line,Defense
+12,DT,Defensive Tackle,Defensive Line,Defense
+13,ILB,Inside Linebacker,Linebacker,Defense
+14,OLB,Outside Linebacker,Linebacker,Defense
+15,CB,Cornerback,Defensive Back,Defense
+16,S,Safety,Defensive Back,Defense
+17,ATH,Athlete,Special Teams,Special Teams
+18,K,Kicker,Special Teams,Special Teams
+19,P,Punter,Special Teams,Special Teams
+20,LS,Long Snapper,Special Teams,Special Teams
+21,RET,Returner,Special Teams,Special Teams

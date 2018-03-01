@@ -1,0 +1,69 @@
+,POS,POSITION,PLATOON
+0,QB,Quarterback,Offense
+1,RB,Running back,Offense
+2,HB,Halfback,Offense
+3,TB,Tailback,Offense
+4,FB,Fullback,Offense
+5,LH,Left Halfback,Offense
+6,RH,Right Halfback,Offense
+7,BB,Blocking Back,Offense
+8,B,Back,Offense
+9,WB,Wingback,Offense
+10,WR,Wide Receiver,Offense
+11,FL,Flanker,Offense
+12,SE,Split End,Offense
+13,E,End,Offense
+14,TE,Tight End,Offense
+15,LE,Left End,Offense
+16,LT,Left Tackle,Offense
+17,LOT,Left Offensive Tackle,Offense
+18,T,Tackle,Offense
+19,LG,Left Guard,Offense
+20,G,Guard,Offense
+21,C,Center,Offense
+22,RG,Right Guard,Offense
+23,RT,Right Tackle,Offense
+24,ROT,Right Offensive Tackle,Offense
+25,RE,Right End,Offense
+26,DL,Defensive Lineman,Defense
+27,LDE,Left Defensive End,Defense
+28,DE,Defensive End,Defense
+29,LDT,Left Defensive Tackle,Defense
+30,DT,Defensive Tackle,Defense
+31,NT,Nose Tackle,Defense
+32,MG,Middle Guard,Defense
+33,DG,Defensive Guard,Defense
+34,RDT,Right Defensive Tackle,Defense
+35,RDE,Right Defensive End,Defense
+36,LOLB,Left Outside Linebacker,Defense
+37,RUSH,Rush Linebacker,Defense
+38,OLB,Outside Linebacker,Defense
+39,LLB,Left Linebacker,Defense
+40,LILB,Left Inside Linebacker,Defense
+41,WILL,Weak Side Linebacker,Defense
+42,ILB,Inside Linebacker,Defense
+43,SLB,Strong Side Linebacker,Defense
+44,MLB,Middle Linebacker,Defense
+45,MIKE,Middle Linebacker,Defense
+46,WLB,Weak Side Linebacker,Defense
+47,RILB,Right Inside Linebacker,Defense
+48,RLB,Right Linebacker,Defense
+49,ROLB,Right Outside Linebacker,Defense
+50,SAM,Strong Side Linebacker,Defense
+51,LB,Linebacker,Defense
+52,LCB,Left Cornerback,Defense
+53,CB,Cornerback,Defense
+54,RCB,Right Cornerback,Defense
+55,SS,Strong Safety,Defense
+56,FS,Free Safety,Defense
+57,LDH,Left Defensive Halfback,Defense
+58,RDH,Right Defensive Halfback,Defense
+59,LS,Left Safety,Defense
+60,S,Safety,Defense
+61,RS,Right Safety,Defense
+62,DB,Defensive Back,Defense
+63,K,Kicker,Special Teams
+64,P,Punter,Special Teams
+65,PR,Punt Returner,Special Teams
+66,KR,Kick Returner,Special Teams
+67,RET,Returner,Special Teams
